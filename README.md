@@ -4,11 +4,11 @@
 #### A software engineer interested in the intersection of AI/ML with systems
 
 ### Industry Experiences 🏭
-- [May 2022 -> Jan 2026] Software Engineer at Snapp! Cab
-- [Feb 2022 -> May 2022] Golang Software Engineer (internship)
+- [May 2022 -> Jan 2026] Software Engineer at [Snapp! Cab](https://www.linkedin.com/company/snapp.ir/)
+- [Feb 2022 -> May 2022] Golang Software Engineer (internship) at [Bale Messenger](https://www.linkedin.com/company/balemessenger/)
 
 ### Academic Experiences 🎓
-- Aut-Cloud-lab (Amirkabir University of Technology): Using migration to reduce resource fragmentation in Kubernetes-managed cloud-assisted edge clusters
+- Aut-Cloud-lab ([Amirkabir University of Technology](https://www.linkedin.com/school/amirkabir-university-of-technology---tehran-polytechnic/)): Using migration to reduce resource fragmentation in Kubernetes-managed cloud-assisted edge clusters
   - Contributions:
     - Development of the main scheduler
     - Provision a 6-node K3s cluster with comprehensive monitoring stack
@@ -19,7 +19,7 @@
     - [Sencillo](https://github.com/Noisyboy-9/sencillo)
   - [Arxiv](https://arxiv.org/abs/2501.07130)
 
-- Agora6G (University of Twente): Working on Open Radio Access Network resiliency
+- Agora6G ([University of Twente](https://www.linkedin.com/school/university-of-twente/)): Working on Open Radio Access Network resiliency
 
 ### Tech Stack
 - Go, Java, PHP, Javascript, Python 
