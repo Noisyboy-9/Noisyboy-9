@@ -3,35 +3,35 @@
 
 #### A software engineer interested in the intersection of AI/ML with systems. 
 
-### Industry Experiences 🏭
+### Industry Experience 🏭
 - [May 2022 to Jan 2026] Software Engineer at [Snapp! Cab](https://www.linkedin.com/company/snapp.ir/)
 - [Feb 2022 to May 2022] Golang Software Engineer (internship) at [Bale Messenger](https://www.linkedin.com/company/balemessenger/)
 
-### Academic Experiences 🎓
-- Aut-Cloud-lab ([Amirkabir University of Technology](https://www.linkedin.com/school/amirkabir-university-of-technology---tehran-polytechnic/)): Using migration to reduce resource fragmentation in Kubernetes-managed cloud-assisted edge clusters
+### Academic Experience 🎓
+- Aut-Cloud Lab ([Amirkabir University of Technology](https://www.linkedin.com/school/amirkabir-university-of-technology---tehran-polytechnic/)): Using migration to reduce resource fragmentation in Kubernetes-managed cloud-assisted edge clusters
   - Contributions:
-    - Development of the main scheduler
-    - Provision a 6-node K3s cluster with comprehensive monitoring stack
-    - Design and own the evaluation framework
-    - Data collection, cleaning, aggregation, visualization for the final draft
+    - Developed the main scheduler
+    - Provisioned a 6-node K3s cluster with a comprehensive monitoring stack
+    - Designed and led the evaluation phase of the work
+    - Collected, cleaned, aggregated, and visualized data for the final draft
   - Projects:
     - [KubeDSM](https://github.com/AUT-Cloud-Lab/ecmus)
     - [Sencillo](https://github.com/Noisyboy-9/sencillo)
-  - [Arxiv](https://arxiv.org/abs/2501.07130)
+  - [arXiv](https://arxiv.org/abs/2501.07130)
 
 - Agora6G ([University of Twente](https://www.linkedin.com/school/university-of-twente/)): Working on Open Radio Access Network resiliency
 
 ### Tech Stack 👨‍💻
-- Go, Java, PHP, Javascript, Python 
+- Go, Java, PHP, JavaScript, Python 
 - Docker, Kubernetes, OpenShift
 - Helm, ArgoCD
 - Git, CI/CD
-- MySQL, Postgres, Redis
-- RabbitMQ, Kafka, Nats
-- Scikit-learn, pandas, matplotlib
+- MySQL, PostgreSQL, Redis
+- RabbitMQ, Kafka, NATS 
+- scikit-learn, pandas, matplotlib
 
 ### Education 🎓
-- [Feb 2026 to Present] Computer Science, M.Sc, University of Twente
-- [Sept 2020 to Apr 2025] Computer Engineering, B.Sc, Amirkabir University of Technology
+- [Feb 2026 – Present] M.Sc. in Computer Science, University of Twente
+- [Sep 2020 – Apr 2025] B.Sc. in Computer Engineering, Amirkabir University of Technology
 
-For more info please take a look at my [Portfolio](https://sinashariati.netlify.app/)
+For more information, please take a look at my [portfolio](https://sinashariati.netlify.app/).
