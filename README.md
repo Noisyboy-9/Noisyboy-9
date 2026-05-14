@@ -3,11 +3,19 @@
 
 #### A software engineer interested in the intersection of AI/ML with systems. 
 
+### Current Focus 🔍
+- AI-assisted resiliency in Open RAN
+- Cloud-native systems for AI/ML workloads
+- Practical machine learning and model evaluation
+- Backend systems in Go
+
+
 ### Industry Experience 🏭
 - [May 2022 to Jan 2026] Software Engineer at [Snapp! Cab](https://www.linkedin.com/company/snapp.ir/)
 - [Feb 2022 to May 2022] Golang Software Engineer (internship) at [Bale Messenger](https://www.linkedin.com/company/balemessenger/)
 
 ### Academic Experience 🎓
+- Agora6G ([University of Twente](https://www.linkedin.com/school/university-of-twente/)): Working on Open Radio Access Network resiliency
 - Aut-Cloud Lab ([Amirkabir University of Technology](https://www.linkedin.com/school/amirkabir-university-of-technology---tehran-polytechnic/)): Using migration to reduce resource fragmentation in Kubernetes-managed cloud-assisted edge clusters
   - Contributions:
     - Developed the main scheduler
@@ -19,7 +27,6 @@
     - [Sencillo](https://github.com/Noisyboy-9/sencillo)
   - [arXiv](https://arxiv.org/abs/2501.07130)
 
-- Agora6G ([University of Twente](https://www.linkedin.com/school/university-of-twente/)): Working on Open Radio Access Network resiliency
 
 ### Tech Stack 👨‍💻
 - Go, Java, PHP, JavaScript, Python 
