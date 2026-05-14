@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 
-#### A software engineer interested in the intersection of AI/ML with systems. I'm also a MSc in Computer Science with specialization is Internet Science and Technology at University of Twente.
+#### A software engineer interested in the intersection of AI/ML with systems. 
 
 ### Industry Experiences 🏭
 - [May 2022 to Jan 2026] Software Engineer at [Snapp! Cab](https://www.linkedin.com/company/snapp.ir/)
@@ -21,7 +21,7 @@
 
 - Agora6G ([University of Twente](https://www.linkedin.com/school/university-of-twente/)): Working on Open Radio Access Network resiliency
 
-### Tech Stack
+### Tech Stack 👨‍💻
 - Go, Java, PHP, Javascript, Python 
 - Docker, Kubernetes, OpenShift
 - Helm, ArgoCD
@@ -29,5 +29,9 @@
 - MySQL, Postgres, Redis
 - RabbitMQ, Kafka, Nats
 - Scikit-learn, pandas, matplotlib
+
+### Education 🎓
+- [Feb 2026 to Present] Computer Science, M.Sc, University of Twente
+- [Sept 2020 to Apr 2025] Computer Engineering, B.Sc, Amirkabir University of Technology
 
 For more info please take a look at my [Portfolio](https://sinashariati.netlify.app/)
