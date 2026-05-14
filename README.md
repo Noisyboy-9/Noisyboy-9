@@ -1,11 +1,11 @@
 ### Hello There 👋
 
 
-#### A software engineer interested in the intersection of AI/ML with systems
+#### A software engineer interested in the intersection of AI/ML with systems. I'm also a MSc in Computer Science with specialization is Internet Science and Technology at University of Twente.
 
 ### Industry Experiences 🏭
-- [May 2022 -> Jan 2026] Software Engineer at [Snapp! Cab](https://www.linkedin.com/company/snapp.ir/)
-- [Feb 2022 -> May 2022] Golang Software Engineer (internship) at [Bale Messenger](https://www.linkedin.com/company/balemessenger/)
+- [May 2022 to Jan 2026] Software Engineer at [Snapp! Cab](https://www.linkedin.com/company/snapp.ir/)
+- [Feb 2022 to May 2022] Golang Software Engineer (internship) at [Bale Messenger](https://www.linkedin.com/company/balemessenger/)
 
 ### Academic Experiences 🎓
 - Aut-Cloud-lab ([Amirkabir University of Technology](https://www.linkedin.com/school/amirkabir-university-of-technology---tehran-polytechnic/)): Using migration to reduce resource fragmentation in Kubernetes-managed cloud-assisted edge clusters
